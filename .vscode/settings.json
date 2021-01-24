@@ -1,0 +1,9 @@
+{
+    "liveServer.settings.https": {
+    "enable": true, //set it true to enable the feature.
+    "cert": "/Users/sharon/.localhost-ssl/localhost.crt", //full path of the certificate
+    "key": "/Users/sharon/.localhost-ssl/localhost.key", //full path of the private key
+    "passphrase": "12345",
+    },
+    "liveServer.settings.port": 8081
+    }
